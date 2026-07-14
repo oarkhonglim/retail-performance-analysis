@@ -73,7 +73,7 @@ Provides insights into:
 
 ### Executive Dashboard
 
-<img width="452" height="254" alt="image" src="https://github.com/user-attachments/assets/927b7155-dbb8-40d4-b6c1-011434c8deee" />
+<img width="452" height="254" alt="executive_dashboard" src="https://github.com/user-attachments/assets/bd95644e-895f-4271-9a7c-dd926a57ca4f" />
 
 ### Product Performance Dashboard
 
